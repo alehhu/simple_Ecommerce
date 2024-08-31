@@ -1,5 +1,5 @@
 """
-WSGI config for small_Ecommerce project.
+WSGI config for simple_Ecommerce project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'small_Ecommerce.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'simple_Ecommerce.settings')
 
 application = get_wsgi_application()
