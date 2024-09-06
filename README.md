@@ -23,7 +23,16 @@ website front-end is more scalable and structured. Also in the
 deploying phase we can arrange the system in separated 
 kubernetes nodes for distribution principles. The database can
 also be improved, and buy and shopping cart features are 
-missing.
+missing. In addition, the frontend UI sucks but it wasn't the 
+main point of this project.
+
+![homepage_view](rm_assets/homepage_view.png)
+
+![django_api_view](rm_assets/django_api_view.png)
+
+![django_adminPage_view](rm_assets/django_adminPage_view.png)
+
+
 ## Development
 ### Backend
 ```console
